@@ -1,3 +1,2 @@
-static/assets/img/*.png
-!static/assets/img/
+
 __pycache__/
