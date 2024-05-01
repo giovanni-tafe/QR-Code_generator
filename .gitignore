@@ -1,1 +1,5 @@
+# Exclude PNG files inside static/assets/img directory
+static/assets/img/*.png
+
+# Ignore Python byte-compiled files
 __pycache__/
